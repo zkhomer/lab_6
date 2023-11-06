@@ -1,0 +1,164 @@
+<mxfile host="app.diagrams.net" modified="2023-11-06T12:55:09.220Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ElpiZuAX8fAn1aR2Rp5q" version="22.0.8" type="google">
+  <diagram name="Page-1" id="69dDo2q7ldhMYGmjoTdZ">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Кінець&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-362" y="1110" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-3" target="eyWNeZ6SQrEM25bpB5ur-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Оберіть предмети, які ви збираєтесь складати на ЗНО&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-812" y="350" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-5" target="eyWNeZ6SQrEM25bpB5ur-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Пройти пробні ЗНО для визначення рівня знань по 200 бальній шкалі&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-797" y="470" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-7" target="eyWNeZ6SQrEM25bpB5ur-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-7" value="Визначити дату ЗНО для розумного розподілення часу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-792" y="580" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-9" target="eyWNeZ6SQrEM25bpB5ur-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-9" value="Визначити час в який ви можете готуватись" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-792" y="680" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-11" target="eyWNeZ6SQrEM25bpB5ur-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-11" value="Обрати зручний варіант для підготовки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-792" y="774.5" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-11" target="eyWNeZ6SQrEM25bpB5ur-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-15" target="eyWNeZ6SQrEM25bpB5ur-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-15" target="eyWNeZ6SQrEM25bpB5ur-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-15" value="У вас є кошти на підготовку?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-553" y="340" width="155" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-17" target="eyWNeZ6SQrEM25bpB5ur-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-17" value="Ви готуєтесь самостійно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-562" y="530" width="171.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-18" value="Так" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-324.5" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-20" target="eyWNeZ6SQrEM25bpB5ur-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-20" value="За місяць до ЗНО повторити вивчений матеріал" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-344.5" y="824.5" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-22" target="eyWNeZ6SQrEM25bpB5ur-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-22" value="Написати ЗНО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-344.5" y="920" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-24" target="eyWNeZ6SQrEM25bpB5ur-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-24" value="Отримати результати ЗНО" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-351.5" y="1020" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-26" target="eyWNeZ6SQrEM25bpB5ur-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Початок&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-793.5" y="240" width="213" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-27" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-707" y="860" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-29" target="eyWNeZ6SQrEM25bpB5ur-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-29" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-495.5" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-32" target="eyWNeZ6SQrEM25bpB5ur-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-32" target="eyWNeZ6SQrEM25bpB5ur-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-32" value="Ви хочете особисту підготовку?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-362" y="340" width="155" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-34" target="eyWNeZ6SQrEM25bpB5ur-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-34" value="Ви готуєтесь за допомогою репетитора" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-344.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.827;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-36" target="eyWNeZ6SQrEM25bpB5ur-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-42" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-36" value="Ви готуєтесь за допомогою онлайн курсів" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-134.5" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-37" value="Так" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-194.5" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-39" target="eyWNeZ6SQrEM25bpB5ur-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-39" value="Обрати джерело інформації по якому ви будете здійснювати навчання" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-571.25" y="610" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-41" target="eyWNeZ6SQrEM25bpB5ur-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-41" value="Виконувати завдання для підготовки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-344.5" y="610" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyWNeZ6SQrEM25bpB5ur-43" target="eyWNeZ6SQrEM25bpB5ur-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-43" value="Виконувати пробні ЗНО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-344.5" y="730" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="100" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-45" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Лабораторна робота № 6&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="110" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-46" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;Використання онлайн сервісу &amp;nbsp;&lt;span class=&quot;rynqvb&quot;&gt;Draw.io для &lt;/span&gt;документування розроблених програм&lt;span lang=&quot;RU&quot;&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="10" width="410" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Варіант: Підготовка до ЗНО&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="30" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-48" value="Виконав студент 611п Безпалий Артур Антонович" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="195" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-49" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Перевірила&amp;nbsp;канд. екон. наук, доцент&lt;span style=&quot;letter-spacing: 0.14994px; text-align: start;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.14994px; text-align: start;&quot;&gt;на кафедрі 601 Дем&#39;яненко О. С.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="225" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eyWNeZ6SQrEM25bpB5ur-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;URL адреса:&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;a href=&quot;https://github.com/zkhomer/lab_6&quot;&gt;gitHub&lt;/a&gt;&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1TuHqfPrqHVKJMa5zTdHHR9i3UKJpvg9Q&quot;&gt;Google drive&lt;/a&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="260" width="300" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
